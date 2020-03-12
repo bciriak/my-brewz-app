@@ -1,7 +1,7 @@
 {
   "name": "my-brewz-app",
   "version": "1.0.0",
-  "description": "App for handling collection of beers.",
+  "description": "App for handling collection of brews.",
   "author": "Brano Ciriak",
   "private": true,
   "scripts": {

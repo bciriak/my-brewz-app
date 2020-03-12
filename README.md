@@ -1,10 +1,10 @@
 # my-brewz-app
 
-> App for handling collection of beers.
+> App for handling collection of brews.
 
 ## Build Setup
 
-``` bash
+```bash
 # install dependencies
 $ npm install
 
