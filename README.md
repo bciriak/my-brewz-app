@@ -2,21 +2,33 @@
 
 > App for handling collection of brews.
 
-## Build Setup
+## Notes
+
+- this app is built on Nuxt.js framework
+
+## Installation
+
+1. Clone this repo
 
 ```bash
-# install dependencies
-$ npm install
-
-# serve with hot reload at localhost:3000
-$ npm run dev
-
-# build for production and launch server
-$ npm run build
-$ npm run start
-
-# generate static project
-$ npm run generate
+git clone
 ```
 
-For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
+2. Install dependencies
+
+```bash
+npm i
+```
+
+3. Run the project
+
+```bash
+npm run dev
+```
+
+## Features
+
+- Basic Brew CRUD
+- User can search PunkAPI for brews to add to collection
+- State management with Vuex
+- Styling done with Tailwind CSS
