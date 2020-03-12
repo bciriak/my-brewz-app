@@ -11,7 +11,7 @@
 1. Clone this repo
 
 ```bash
-git clone
+git clone https://github.com/bciriak/my-brewz-app.git
 ```
 
 2. Install dependencies
